@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "fname": "Ahmed",
+      "lname": "Abdallah",
+      "age": "25",
+      "e_mail": "mo@gmail.com",
+      "address": "Talkha",
+      "user_name": "abdalllah22",
+      "password": "111",
+      "id": 1
+    },
+    {
+      "fname": "Mohamed",
+      "lname": "Khder",
+      "age": "25",
+      "e_mail": "m22@gmail.com",
+      "address": "Cairo",
+      "user_name": "dksh",
+      "password": "222",
+      "id": 2
+    },
+    {
+      "fname": "Khaled",
+      "lname": "Shabasy",
+      "age": "22",
+      "e_mail": "asd@gmail.com",
+      "address": "Mansoura",
+      "user_name": "ships",
+      "password": "333",
+      "id": 3
+    },
+    {
+      "fname": "Nasr",
+      "lname": "Kassem",
+      "age": "33",
+      "e_mail": "engnasr@yahoo.com",
+      "address": "Mansoura",
+      "user_name": "MxoOkpz",
+      "password": "irNp",
+      "id": 4
+    }
+  ],
+  "emp": [
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-6",
+      "id": 1
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "09:00 AM",
+      "day": "2021-02-6",
+      "id": 2
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "09:00 AM",
+      "day": "2021-02-6",
+      "id": 3
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-7",
+      "id": 4
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "09:00 AM",
+      "day": "2021-02-7",
+      "id": 5
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "09:00 AM",
+      "day": "2021-02-7",
+      "id": 6
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-8",
+      "id": 7
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "09:00 AM",
+      "day": "2021-02-8",
+      "id": 8
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "09:00 AM",
+      "day": "2021-02-8",
+      "id": 9
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-9",
+      "id": 10
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "11:00 AM",
+      "day": "2021-02-9",
+      "id": 11
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-10",
+      "id": 12
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "11:00 AM",
+      "day": "2021-02-10",
+      "id": 13
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "09:00 AM",
+      "day": "2021-02-11",
+      "id": 14
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "11:00 AM",
+      "day": "2021-02-11",
+      "id": 15
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "09:00 AM",
+      "day": "2021-02-11",
+      "id": 16
+    },
+    {
+      "full_name": "Ahmed Abdallah",
+      "user_name": "abdalllah22",
+      "login_time": "12:44 PM",
+      "day": "2021-02-13",
+      "id": 17
+    },
+    {
+      "full_name": "Mohamed Khder",
+      "user_name": "dksh",
+      "login_time": "12:45 PM",
+      "day": "2021-02-13",
+      "id": 18
+    },
+    {
+      "full_name": "Khaled Shabasy",
+      "user_name": "ships",
+      "login_time": "12:45 PM",
+      "day": "2021-02-13",
+      "id": 19
+    },
+    {
+      "full_name": "Nasr Kassem",
+      "user_name": "MxoOkpz",
+      "login_time": "01:04 PM",
+      "day": "2021-02-13",
+      "id": 20
+    }
+  ]
+}
